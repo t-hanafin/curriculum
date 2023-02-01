@@ -14,7 +14,7 @@ This section contains a general overview of topics that you will learn in this l
 
 Consider the following two snippets of JavaScript:  
 
-This is ugly and hard to read code:
+This code is ugly and hard to read: 
 
 ~~~javascript
 const x =
@@ -28,7 +28,7 @@ function(q){
 x([2, 2, 2]);
 ~~~
 
-Now, this is clean and easy to read code:
+Now, this code is clean and easy to read:
 
 ~~~javascript
 const sumArray = function(array) {
@@ -104,8 +104,8 @@ There are many different opinions on what constitutes great JavaScript code.  Th
 
 <div class="lesson-content__panel" markdown="1">
 
-1.  [This list of clean-code tips](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/).
-2.  [This article](https://blog.codinghorror.com/coding-without-comments/), [and this one too](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/) about the role of comments in your code.
+1.  Read [this list of clean-code tips](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/).
+2.  Read [this article](https://blog.codinghorror.com/coding-without-comments/), [and this one too](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/) about the role of comments in your code.
 </div>
 
 ### Knowledge Check
